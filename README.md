@@ -1,20 +1,66 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Hammas Umer — WordPress & React Developer
 
-# Run and deploy your AI Studio app
+A modern, responsive personal portfolio website built with React, TypeScript, Vite, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## About
 
-View your app in AI Studio: https://ai.studio/apps/f82cc01d-d8fe-48a0-9180-ab59a988f16b
+This portfolio showcases my experience, skills, and selected projects as a WordPress and React Developer.
 
-## Run Locally
+### Skills
 
-**Prerequisites:**  Node.js
+* WordPress
+* Elementor
+* WooCommerce
+* React.js
+* JavaScript
+* TypeScript
+* HTML & CSS
+* PHP
+* SEO
+* Responsive Web Design
+* Git & GitHub
 
+## Featured Projects
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### PrimeNest Realty
+
+A modern real estate website built with React.
+
+### Drug Mart Pharmacy
+
+A responsive pharmacy website built with React.
+
+### BenCo Realty
+
+A custom real estate website developed with WordPress and Elementor.
+
+### The Herbal Pool
+
+A WordPress website focused on a health and wellness brand.
+
+### PUMEWA
+
+A website developed for Pak United Medical & Education Welfare Association.
+
+## Tech Stack
+
+* React.js
+* TypeScript
+* Vite
+* Tailwind CSS
+* JavaScript
+* HTML5
+* CSS3
+* Git & GitHub
+
+## Contact
+
+**Email:** [hammasumer7@gmail.com](mailto:hammasumer7@gmail.com)
+**Phone:** +92 313 8491418
+
+**GitHub:** https://github.com/hammasumer
+**LinkedIn:** https://www.linkedin.com/in/hammas-umer/
+
+## License
+
+This project is created for my personal portfolio and professional showcase.
